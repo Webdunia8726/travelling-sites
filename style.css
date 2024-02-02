@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.main{
+    background-image: url("mountain4.jpg");
+    background-repeat: no-repeat;
+}
+
+a{
+    font-weight: bold !important;
+}
+a:hover{
+    color: blue !important;
+}
+.navbar-brand{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.navbar-brand:hover{
+    color: yellow !important;
+}
+
+.section2{
+    background-color: #FFA447;
+}
+.services{
+    background-color: darkgray;
+}
+.section3{
+    background-color: #FFA447;
+
+}
